@@ -8,6 +8,7 @@ npm install
 
 npm run dev
 
+app launch on http://localhost:5173/
 
 ● Fetch and display a list of items from the API (GET request).
 I created react app with vite, setup tailwind and redux toolkit,
